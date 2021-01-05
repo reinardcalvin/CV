@@ -6,8 +6,10 @@ IT Consultant / Software Developer.
 
 0434096809
 
+<address>
+<a href="mailto:reinardcalvin@gmail.com">reinardcalvin@gmail.com</a>
+</address>
 <div id="webaddress">
-<a href="reinardcalvin@gmail.com">reinardcalvin@gmail.com</a>
 | <a href="https://www.linkedin.com/in/reinardcalvin/">My LinkedIn Page</a>
 </div>
 
