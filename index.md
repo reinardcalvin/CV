@@ -8,7 +8,7 @@ IT Consultant / Software Developer.
 
 <div id="webaddress">
 <address> <a href="mailto:reinardcalvin@gmail.com">reinardcalvin@gmail.com</a> </address> 
-<a href="https://www.linkedin.com/in/reinardcalvin/">My LinkedIn Page</a>
+| <a href="https://www.linkedin.com/in/reinardcalvin/">My LinkedIn Page</a>
 </div>
 
 ## About
